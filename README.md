@@ -1,5 +1,3 @@
-# Python-101
-
 # Welcome!
 
 Python is a  programming language popular for its simplicity and the ability to create complex applications and here is my journey to learning Python from A-Z.
