@@ -1,4 +1,0 @@
-
-hhope,
-love,
-passion
